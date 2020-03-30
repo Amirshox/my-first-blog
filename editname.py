@@ -2,8 +2,8 @@ from telethon.sync import TelegramClient
 from telethon import functions
 from time import strftime, sleep
 
-api_id = 1212804
-api_hash = 'd683339603c2dd78185820dc411ba0c5'
+api_id = *
+api_hash = '*'
 name = 'Amirshox'
 
 while True:
